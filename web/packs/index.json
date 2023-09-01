@@ -1,0 +1,10 @@
+{
+  "packs": [
+    "GBTDPack.json",
+    "LolAnimals4.json",
+    "babki_stickers.json",
+    "alicethefox_vk.json",
+    "explosivekitts.json"
+  ],
+  "homeserver_url": "https://advancedsoft.mooo.com"
+}
